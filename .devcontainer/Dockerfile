@@ -9,4 +9,4 @@ FROM mcr.microsoft.com/vscode/devcontainers/base:0-${VARIANT}
 #     && apt-get -y install --no-install-recommends <your-package-list-here>
 
 # Download useful image manipulation utility 
-RUN curl https://download.imagemagick.org/ImageMagick/download/binaries/magick --output /usr/local/bin/magick && chmod 755 magick
+RUN curl https://download.imagemagick.org/ImageMagick/download/binaries/magick --output /usr/local/bin/magick && chmod 755 /usr/local/bin/magick
