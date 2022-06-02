@@ -14,8 +14,11 @@ basics:
     countryCode: "UK"
   profiles:
     - network: "LinkedIn"
-      username: "James Gawn"
+      username: "jamesgawn"
       url: "https://www.linkedin.com/in/jamesgawn/"
+    - network: "Github"
+      username: "jamesgawn"
+      url: "https://github.com/jamesgawn/"
 work:
   - company: "Mettle"
     position: "Senior Engineering Manager"
