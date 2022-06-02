@@ -4,12 +4,12 @@ title: Tosca Review
 description: >
   A review of Tosca, performed at the Royal Opera House, Covent Garden. An impressive male lead, but would have appreciated a more interesting staging.
 image: 
-  path: /assets/img/blog/opera/2018-01-22-salome-review/seat-view.jpg
+  path: /assets/img/blog/opera/2019-06-15-tosca-review/seat-view.jpg
   srcset:
-    1200w: /assets/img/blog/opera/2018-01-22-salome-review/seat-view.jpg
-    600w:  /assets/img/blog/opera/2018-01-22-salome-review/seat-view@0,5x.jpg
-    300w:  /assets/img/blog/opera/2018-01-22-salome-review/seat-view@0,25x.jpg
-    150w:  /assets/img/blog/opera/2018-01-22-salome-review/seat-view@0,25x.jpg
+    1200w: /assets/img/blog/opera/2019-06-15-tosca-review/seat-view.jpg
+    600w:  /assets/img/blog/opera/2019-06-15-tosca-review/seat-view@0,5x.jpg
+    300w:  /assets/img/blog/opera/2019-06-15-tosca-review/seat-view@0,25x.jpg
+    150w:  /assets/img/blog/opera/2019-06-15-tosca-review/seat-view@0,25x.jpg
 ---
 
 I watched this performance at the Royal Opera House, London on the Saturday 15th June 2019.
