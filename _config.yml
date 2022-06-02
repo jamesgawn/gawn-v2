@@ -89,7 +89,7 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.png
+accent_image:          /assets/img/sidebar-bg/digital.png
 accent_color:          rgb(255,152,1)
 
 # This is used for the `theme-color` meta tag,
@@ -123,6 +123,12 @@ defaults:
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
+
+  - scope:
+      path: "**/opera/**"
+    values:
+      theme_color:  rgb(78,7,3)
+      accent_image: /assets/img/sidebar-bg/red-curtains.jpg
 
   # Don't include documents in assets in the sitemap
   - scope:
