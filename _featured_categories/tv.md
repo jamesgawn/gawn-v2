@@ -11,4 +11,7 @@ slug: tv
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
   A collection of short reviews for TV programmes I've either loved or loathed.
+
+theme_color:  rgb(114,115,118)
+accent_image: /assets/img/sidebar-bg/static-dark.jpg
 ---

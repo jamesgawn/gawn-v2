@@ -125,10 +125,16 @@ defaults:
         overlay:       false
 
   - scope:
-      path: "**/opera/**"
+      path: opera
     values:
       theme_color:  rgb(78,7,3)
       accent_image: /assets/img/sidebar-bg/red-curtains.jpg
+
+  - scope:
+      path: tv
+    values:
+      theme_color:  rgb(114,115,118)
+      accent_image: /assets/img/sidebar-bg/static-dark.jpg
 
   # Don't include documents in assets in the sitemap
   - scope:
