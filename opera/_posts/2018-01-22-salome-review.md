@@ -4,12 +4,12 @@ title: Salome Review
 description: >
   A review of the must see, sell your first born to see it, performance of Salome at the Royal Opera House, Covent Garden.
 image: 
-  path: /assets/img/blog/fun/opera//2018-01-22-salome-review/seat-view.jpg
+  path: /assets/img/blog/opera/2018-01-22-salome-review/seat-view.jpg
   srcset:
-    1280w: /assets/img/blog/fun/opera/2018-01-22-salome-review/seat-view.jpg
-    640w:  /assets/img/blog/fun/opera//2018-01-22-salome-review/seat-view@0,5x.jpg
-    320w:  /assets/img/blog/fun/opera//2018-01-22-salome-review/seat-view@0,25x.jpg
-    160w:  /assets/img/blog/fun/opera//2018-01-22-salome-review/seat-view@0,25x.jpg
+    1280w: /assets/img/blog/opera/2018-01-22-salome-review/seat-view.jpg
+    640w:  /assets/img/blog/opera/2018-01-22-salome-review/seat-view@0,5x.jpg
+    320w:  /assets/img/blog/opera/2018-01-22-salome-review/seat-view@0,25x.jpg
+    160w:  /assets/img/blog/opera/2018-01-22-salome-review/seat-view@0,25x.jpg
 ---
 
 I watched this performance at the Royal Opera House, London on the Sunday 21st January.
