@@ -7,8 +7,8 @@ basics:
   picture: "https://v2.gawn.uk/assets/img/author/jamesgawn-256.png"
   website: "https://gawn.uk"
   summary: >
-    A skilled technologist with the ability to combine leadership skills, technical expertise, and 
-    agile methods to deliver technology solutions to real world problems.
+    I'm a digital specialist with the ability to combine leadership skills, technical expertise, and 
+    agile methods to deliver solutions to meet user's needs.
   location:
     city: "London"
     countryCode: "UK"
@@ -43,8 +43,8 @@ work:
     website: "https://wearebo.co.uk"
     startDate: "2019-05-01"
     endDate: "2020-07-01"
-    # summary: >
-    #   
+    summary: >
+      Lead the mobile and web engineering community building a brand new retail banking platform.
     # highlights:
     #   - ""
   - company: "NatWest"
@@ -52,8 +52,8 @@ work:
     website: "https://natwestgroup.com"
     startDate: "2015-11-01"
     endDate: "2019-05-01"
-    # summary: >
-    #   
+    summary: >
+      Lead teams building the mobile app and rebuilding the platform on the public cloud.
     # highlights:
     #   - ""
   - company: "NatWest Markets"
@@ -116,8 +116,8 @@ volunteer:
     startDate: "2006-10-01"
     endDate: "2008-06-01"
     summary: "I built and operated a digital platform to publish the Swansea University student newspaper."
-    highlights:
-      - "Awarded an outstanding achievement award for my contribution in this role by the Student Union"
+    # highlights:
+    #   - "Awarded an outstanding achievement award for my contribution in this role by the Student Union"
 education:
   - institution: "Swansea University"
     area: "Computer Science"
