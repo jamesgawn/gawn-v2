@@ -52,6 +52,10 @@ menu:
     url:               /blog/
   # - title:             Projects
   #   url:               /projects/
+  - title:             Culture
+    url:               /blog/culture/
+  - title:             Tech
+    url:               /blog/tech/
   - title:             Résumé
     url:               /resume/
 

@@ -4,12 +4,13 @@ title: Severance Review
 description: >
   An onion sci-fi thriller. It reveals layer after layer until reaching a seat gripping season finale. Must watch TV.
 image: 
-  path: /assets/img/blog/tv/2022-05-18-severance-review/poster.png
+  path: /assets/img/blog/culture/2022-05-18-severance-review/poster.png
   srcset:
-    3840w: /assets/img/blog/tv/2022-05-18-severance-review/poster.png
-    1920w: /assets/img/blog/tv/2022-05-18-severance-review/poster.png@0,5x.jpg
-    960w:  /assets/img/blog/tv/2022-05-18-severance-review/poster.png@0,25x.jpg
-    480w:  /assets/img/blog/tv/2022-05-18-severance-review/poster.png@0,25x.jpg
+    3840w: /assets/img/blog/culture/2022-05-18-severance-review/poster.png
+    1920w: /assets/img/blog/culture/2022-05-18-severance-review/poster.png@0,5x.jpg
+    960w:  /assets/img/blog/culture/2022-05-18-severance-review/poster.png@0,25x.jpg
+    480w:  /assets/img/blog/culture/2022-05-18-severance-review/poster.png@0,25x.jpg
+tag: tv
 ---
 
 An onion sci-fi thriller. It reveals layer after layer until reaching a seat gripping season finale.

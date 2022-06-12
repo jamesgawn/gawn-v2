@@ -3,6 +3,7 @@ layout: post
 title: Rigoletto Review
 description: >
   A review of a thoroughly enjoyable performance of Rigoberto. It featured a Rigoberto costume that’s a cross between Duke Baron Harconan from David Lynches Dune and Bill Bailey.
+tag: opera
 ---
 
 I watched this performance at the Royal Opera House, London on the Saturday 6th January.
