@@ -11,6 +11,7 @@ image:
     320w:  /assets/img/blog/culture/2018-01-22-salome-review/seat-view@0,25x.jpg
     160w:  /assets/img/blog/culture/2018-01-22-salome-review/seat-view@0,25x.jpg
 tag: opera
+published: false
 ---
 
 I watched this performance at the Royal Opera House, London on the Sunday 21st January.

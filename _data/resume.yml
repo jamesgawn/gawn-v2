@@ -20,15 +20,20 @@ basics:
       username: "jamesgawn"
       url: "https://github.com/jamesgawn/"
 work:
+  - company: "Natwest Boxed"
+    position: "Engineering Director"
+    website: "https://nwboxed.com"
+    startDate: "2023-04-01"
+    endDate: ""
+    summary: >
+      Leading the engineering team building a cloud native Banking-as-a-Service platform, serving Mettle and enabling corporate clients to create frictionless financial experiences for their customers.
   - company: "Mettle"
     position: "Senior Engineering Manager"
     website: "https://mettle.co.uk"
     startDate: "2022-03-01"
-    endDate: ""
+    endDate: "2023-03-31"
     summary: >
       Leading the engineering team building Mettle's cloud native banking platform.
-    # highlights:
-    #   - ""
   - company: "Mettle"
     position: "Engineering Manager"
     website: "https://mettle.co.uk"
