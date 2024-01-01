@@ -11,7 +11,7 @@ image:
     960w:  /assets/img/blog/culture/2022-05-18-severance-review/poster.png@0,25x.jpg
     480w:  /assets/img/blog/culture/2022-05-18-severance-review/poster.png@0,25x.jpg
 tag: tv
-published: false
+published: true
 ---
 
 An onion sci-fi thriller. It reveals layer after layer until reaching a seat gripping season finale.
