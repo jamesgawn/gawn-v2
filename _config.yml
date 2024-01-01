@@ -48,14 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
+  # - title:             Blog
+  #   url:               /blog/
   # - title:             Projects
   #   url:               /projects/
-  - title:             Culture
-    url:               /blog/culture/
-  - title:             Tech
-    url:               /blog/tech/
+  # - title:             Culture
+  #   url:               /blog/culture/
+  # - title:             Tech
+  #   url:               /blog/tech/
   - title:             Résumé
     url:               /resume/
 
